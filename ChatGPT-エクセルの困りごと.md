@@ -1,6 +1,6 @@
 # エクセルの困りごと
 
-**User:** Ayaka Onohara (aonoa68@gmail.com)  
+**User:** Ayaka Onohara
 **Created:** 7/3/2025 5:11  
 **Updated:** 7/3/2025 5:56  
 **Exported:** 7/3/2025 12:50  
