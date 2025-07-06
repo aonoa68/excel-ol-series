@@ -1,6 +1,6 @@
 # OLの業務内容
 
-**User:** Ayaka Onohara (aonoa68@gmail.com)  
+**User:** Ayaka Onohara
 **Created:** 6/30/2025 20:15  
 **Updated:** 7/1/2025 6:48  
 **Exported:** 7/1/2025 8:02  
