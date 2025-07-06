@@ -1,6 +1,6 @@
 # 寝ながらエクセル学習
 
-**User:** Ayaka Onohara (aonoa68@gmail.com)  
+**User:** Ayaka Onohara
 **Created:** 7/2/2025 12:49  
 **Updated:** 7/3/2025 13:15  
 **Exported:** 7/3/2025 13:16  
